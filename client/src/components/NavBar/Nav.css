@@ -1,0 +1,10 @@
+
+
+.customNav {
+  font-size: 50px;
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 5vh;
+  color: white;
+  animation: shine 2s linear infinite;
+
+}
